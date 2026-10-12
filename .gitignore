@@ -1,0 +1,7 @@
+floatchat-key.json
+.env
+.venv
+.venv-clean
+.env
+.env.*
+!.env.example

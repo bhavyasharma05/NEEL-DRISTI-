@@ -1,0 +1,17 @@
+google-cloud-bigquery==3.11.4
+google-generativeai==0.3.1
+google-cloud-aiplatform>=1.38.0
+pandas==2.1.4
+db-dtypes==1.1.1
+faiss-cpu==1.7.4
+numpy==1.26.2
+sentence-transformers==2.2.2
+huggingface-hub==0.14.1
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
+streamlit==1.37.1
+plotly==5.23.0
+kaleido==0.2.1
+python-dotenv==1.0.0
+cohere
