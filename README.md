@@ -1,4 +1,4 @@
-# 🌊 Neel Drishti (नील दृष्टि)
+# 🌊 Neel Drishti 
 
 ### AI-Powered Oceanographic Intelligence Platform
 
