@@ -250,10 +250,7 @@ The `/ask` endpoint supports streaming when configured by the application. Check
 |---|---|
 | **Bhavya Kumar Sharma** | Backend Development |
 | **Nishchal Kumar** | Database Engineering |
-| **A. V. Naga Venu** | AI/ML Engineering |
-| **Bhoomika** | Frontend Development |
-| **Dimple** | UI/UX Design |
-| **Mayank** | Research |
+
 
 ---
 
